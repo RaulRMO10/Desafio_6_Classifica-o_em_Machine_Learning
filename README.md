@@ -1,4 +1,4 @@
-# Projeto de Data Science: Prevendo Churn de Usuários em Serviço de Streaming
+# Desafio 6 Escola DNC : Preveja os usuários com alta chance de deixar seu Streaming
 
 Quero compartilhar um projeto que concluí recentemente, onde desenvolvi um modelo preditivo para identificar usuários com alta chance de deixar um serviço de streaming. Abaixo, descrevo brevemente as etapas que segui para alcançar os resultados.
 
@@ -42,5 +42,5 @@ Quero compartilhar um projeto que concluí recentemente, onde desenvolvi um mode
 - **Plotagem da matriz de confusão:** Gereia matriz de confusão para avaliar o desempenho do modelo.
 - **Impressão das métricas:** Calculei e imprimi métricas de desempenho como acurácia, precisão, recall e F1-score.
 
-Foi uma jornada desafiadora e enriquecedora! Estou muito feliz com os resultados obtidos e animado(a) para aplicar esses conhecimentos em futuros projetos. Agradeço a todos que acompanharam e apoiaram esse processo. 🚀📊
+Foi um desafio enriquecedor! Estou muito feliz com os resultados obtidos e animado para aplicar esses conhecimentos em futuros projetos. 🚀📊
 
